@@ -1,0 +1,1 @@
+First public release: courses, assignments with submissions, calendar and Google Calendar sync, To Do, inbox, notifications and offline content.

@@ -1,0 +1,22 @@
+# Gradle / Kotlin
+.gradle/
+build/
+.kotlin/
+
+# Local machine settings
+local.properties
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Signing secrets: never commit these
+keystore.properties
+*.jks
+*.keystore
+
+# Build outputs
+*.apk
+*.aab

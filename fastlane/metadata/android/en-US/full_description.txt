@@ -1,0 +1,14 @@
+<p>Canvos is an unofficial, open-source Android app for Canvas LMS students. You sign in with a Canvas personal access token instead of a web sign-in.</p>
+<p><b>Features</b></p>
+<ul>
+<li>Dashboard with course cards, grades and a "Due soon" strip</li>
+<li>Announcements, assignments, discussions, grades, modules, pages, files, syllabus, people and quizzes</li>
+<li>Submit text, links and file uploads</li>
+<li>Calendar, To Do and Inbox</li>
+<li>Google Calendar sync of due dates, with reminders</li>
+<li>Notifications for announcements, messages, grades, discussions and due dates</li>
+<li>Offline copies of your courses and files, updated on Wi-Fi</li>
+<li>Light, dark and Material You themes</li>
+</ul>
+<p>Your token is encrypted on the phone and only sent to your school's Canvas site. There are no ads, analytics or trackers.</p>
+<p>Canvos is not affiliated with Instructure. Canvas is a trademark of Instructure, Inc.</p>

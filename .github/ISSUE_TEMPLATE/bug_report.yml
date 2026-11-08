@@ -1,0 +1,46 @@
+name: Bug report
+description: Something in Canvos doesn't work as it should
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. **Never paste your access token**, or screenshots showing it.
+        For security problems, use [private reporting](https://github.com/Rafat-Aman/canvos/security/advisories/new) instead.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a course
+        2. Tap Assignments
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Canvos version
+      description: Shown at the bottom of Settings.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone and Android version
+      placeholder: "Pixel 7, Android 16"
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
+      description: Blur out names, grades or anything private.

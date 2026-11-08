@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="downloads" path="downloads/" />
+    <!-- Offline course files (app-specific storage, or internal storage as a fallback). -->
+    <external-files-path name="offline" path="Canvas/" />
+    <files-path name="offline_internal" path="Canvas/" />
+</paths>

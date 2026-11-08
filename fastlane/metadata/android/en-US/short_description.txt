@@ -1,0 +1,1 @@
+Unofficial Canvas LMS student app with access-token sign-in. No ads or tracking.
